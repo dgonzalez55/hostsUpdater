@@ -1,7 +1,5 @@
-# hosts-update
+# hostsUpdater
 
-PowerShell script to update hosts file on Windows.
-
-Update source: https://someonewhocares.org/hosts/hosts
-
-This script can be simply scheduled to run using Windows Task Scheduler (for example: every day at 19.00).
+PowerShell script per actualitzar el fitxer de hosts a Windows.
+Source(Blacklist): https://someonewhocares.org/hosts/hosts
+Aquest script està pensat per a ser utilitzant dins duna tasca programada i actualitzar-se diàriament.
